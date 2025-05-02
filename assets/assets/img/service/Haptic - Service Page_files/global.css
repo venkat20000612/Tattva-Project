@@ -1,0 +1,10 @@
+:root {
+    --heading: 'Work Sans';
+    --heading-2: 'Unbounded';
+    --body-font: 'Josefin Sans'; 
+    /* Inter */
+    --body-color: #555555 ;
+    --base-color: #FF3838;
+    --title-color: #0e0e0e;
+    --body-bg-color: #171926;
+}
